@@ -1,0 +1,173 @@
+
+h1
+{
+    font-size:40px;
+    font-family:sans-serif;
+    color:blue;
+   text-decoration: underline;
+
+    
+    display: inline-block;
+text-align:center;
+    
+
+    }
+   h6
+{
+    font-size: 30px;
+    text-align: center;
+   color: gold;
+    
+}
+
+h7
+{
+    color:black;
+    font-size:35;
+}
+
+
+
+h5
+{
+    color: white;
+    font-size: 45px;
+    
+}
+
+
+h2
+{
+    
+   
+    font-size:30;
+    font-family:calibri;
+    color:blue;
+   
+    
+    
+}
+
+
+h4
+{
+    color: blue;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.point
+{
+    color:gold;
+}
+
+#s2
+{
+    color:black;
+    font-size:30px;
+    font-family: Cambria;
+    text-align: center;
+    
+
+}
+
+#s3
+{
+    color:black;
+    font-size:30px;
+    font-family: Cambria;
+    text-align: center;
+}
+#s4
+{
+    color:black;
+    font-size:30px;
+    font-family: Cambria;
+    text-align: center;
+
+}
+
+footer h1
+{
+color: blue;
+    font-weight:bolder;
+    text-decoration: underline;
+    background-color: gold;
+    text-align: center;
+    height: 50px;
+    padding: 50px;
+}
+
+.copy
+{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    background-color: gold;
+   padding: 200px; 
+}
+#s5
+{
+
+    text-align: center;
+    background-color: gold;
+    height:850px; 
+    padding:70px;
+    margin:300x; 
+    background-image: url(IMG.webp);
+    background-position-x: center;
+    
+    
+}
+
+h3
+{
+    font-size: 28;
+    font-family:calibri;
+    color:blue;
+    text-decoration: underline;
+   background-color:gold;
+    height:60px; 
+    border-radius: 60%;
+    box-sizing: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
